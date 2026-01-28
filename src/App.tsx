@@ -56,10 +56,6 @@ export const App = () => {
           element={<h1 className="title">Page not found</h1>}
         ></Route>
       </Routes>
-
-      <div className="section">
-        <div className="container"></div>
-      </div>
     </>
   );
 };
